@@ -1072,3 +1072,4 @@ num = [1,2,3,4]
 # for i in a:
 #     print(i)
 
+# def add(a,b):
